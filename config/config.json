@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Dilip@8903",
+    "database": "queue_email",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "queue_email",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "queue_email",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
